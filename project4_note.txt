@@ -1,0 +1,23 @@
+Visualize:
+- After sprayed, virus is gonna drop or not
+- After sprayed, num of mosquito gonna died how many days -> virus effect
+- Weather can affect num of mosquito and virus or not
+- Effective date on num_mosquito and spray
+- Mosquito life span = 8-10 days
+
+Weather
+- Max rainfall
+- Min rainfall
+- Hot dry affect virus
+
+- Feature Weather:
+* Note: may be not use Weather type
+- Max rainfall
+- Min rainfall
+
+Every year from Late May to Early October, public health workers setup mosquito 
+traps scattered across the city
+
+the mosquitos are tested for the presence of West Nile virus before the end of the 
+week. The test results include the number of mosquitos, the mosquitos species, 
+and whether or not West Nile virus is present in the cohort. 
